@@ -80,3 +80,15 @@ You should see:
 ```bash
 docker-compose down
 ```
+
+---
+
+## Screenshots (Proof of Setup)
+
+- Docker build and run success:  
+  ![Docker Build & Run](/screenshots/docker_run.png)
+- App running on localhost:  
+  ![App on Localhost](/screenshots/app_run.png)
+- GitHub branches showing feature branch:  
+  ![GitHub Branches](/screenshots/branches.png)
+
